@@ -6,5 +6,5 @@ Steps to use bing_rewards.py script
    "cd bing_rewards; source bin/activate"
 4. Install required module
    "pip install -r requirements.txt"
-4. Run bing_rewards.py script
+4. Run bing_rewards.py script after replacing your bing username and password
    "./bing_rewards.py"
